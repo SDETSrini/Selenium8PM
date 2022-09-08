@@ -1,0 +1,12 @@
+		
+		
+//		Thread.sleep(5000);  //Hard wait  - never used.
+		
+//		driver.quit();  // Complete close of all the windows - Chrome
+		
+		// Verify the CartItem displayed - Xpath
+		
+		//Convert String to Integer using parser
+		//do Assert! - Expected Vs Actual
+
+		

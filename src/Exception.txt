@@ -1,0 +1,3 @@
+NoSuchElementException - Code did not find the Element on the page.
+ElementClickInterceptedException  - Element is not clickable
+InvalidSelectorException - Error in defining the value as per the syntax
